@@ -63,4 +63,9 @@ La biblioteca `ft_printf` proporciona una implementación modular y eficiente de
 
 ---
 
-¡Espero que este archivo `README.md` sea de utilidad para tu repositorio! Si necesitas más ayuda o deseas personalizarlo aún más, ¡no dudes en decírmelo! 😊
+# 📝 Créditos
+
+- 💻 **Proyecto:** Minishell – Escuela 42  
+- ✍️ **Autor original:** Miriam Fernández Pérez  
+
+---
